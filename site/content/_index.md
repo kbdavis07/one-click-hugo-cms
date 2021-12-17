@@ -1,7 +1,7 @@
 ---
 title: Brian Keith Davis
 subtitle: Software Developer
-image: /img/home-jumbotron.jpg
+image: img/icons-twitter.svg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
